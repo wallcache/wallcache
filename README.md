@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henry Wall
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science for Marketing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me - h.wallcache@gmail.com
 

@@ -7,6 +7,6 @@
 
 🌱 Outside the code, you’ll find me deep in a novel or chasing my dog through Richmond Park.
 
-👨‍💻 View my work: [halwall.me](www.halwall.me)
+👨‍💻 View my work: (halwall.me)[halwall.me]
 
 📫 Let’s connect: henry.n.wall@gmail.com
